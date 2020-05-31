@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 29 11:02:20 IST 2020","Fri May 29 11:02:20 IST 2020","0","testCase","test_api","","","","test_response_head_eTag",""
+"passed","Fri May 29 11:02:20 IST 2020","Fri May 29 11:02:20 IST 2020","0","testCase","test_api","","","","test_response_cf_requestID",""
+"skipped","Fri May 29 11:02:20 IST 2020","Fri May 29 11:02:20 IST 2020","0","testCase","test_api","","","","test_respsonse_statusCode",""
+"passed","Fri May 29 11:02:20 IST 2020","Fri May 29 11:02:20 IST 2020","0","testCase","test_api","","","","test_response_head_verifyCookie",""
