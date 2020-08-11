@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: chnages to API codeBase
+- script: changes to API codeBase
   displayName: 'Run a one-line script'
 
 - script: |
